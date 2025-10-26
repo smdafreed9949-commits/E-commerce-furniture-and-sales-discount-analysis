@@ -70,4 +70,4 @@ This project analyzes a **2,000-row AliExpress furniture dataset** to uncover ho
 Price remains a crucial but **not exclusive** determinant of sales — product presentation, keyword usage, and free shipping also play significant roles.
 This analysis demonstrates how **data-driven insights** can enhance product strategy, optimize pricing, and improve conversion in e-commerce.
 
-Would you like me to make a **shorter GitHub-style version** (under 300 words, with emojis and badges like “📈 Built with Power BI & Python”) for your repository’s `README.md`?
+![alt image](https://github.com/smdafreed9949-commits/E-commerce-furniture-and-sales-discount-analysis/blob/666cf74dc880772d3fd12602ea97991c6e4682cc/WhatsApp%20Image%202025-10-23%20at%2022.31.00_a7d08124.jpg)
